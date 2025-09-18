@@ -22,3 +22,7 @@ The ATMInterface class contains the main method, which is the entry point of the
 To use the program, the user simply runs it in a Java-supported environment. They will first see the ATM menu and can choose any option by entering the corresponding number. For example, selecting option 1 will display the current balance, option 2 will allow a deposit after entering an amount, and option 3 will attempt a withdrawal. If the user chooses option 4, the program terminates with a thank-you message.
 
 Overall, this ATM simulation provides a practical example of Java programming concepts. It shows how classes and objects can work together to model real-world systems. It also highlights the importance of input validation, user interaction, and error handling. This makes it not only a useful project for beginners but also a stepping stone to understanding larger and more complex software systems.
+
+# OUTPUT:
+
+<img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/408fd31c-d134-4db9-b6a1-52dca153741f" />
