@@ -25,4 +25,4 @@ Overall, this ATM simulation provides a practical example of Java programming co
 
 # OUTPUT:
 
-<img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/408fd31c-d134-4db9-b6a1-52dca153741f" />
+
